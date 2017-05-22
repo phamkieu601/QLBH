@@ -1,0 +1,8 @@
+D:\Project\QLBH\QLBH\bin\Debug\QLBH.exe.config
+D:\Project\QLBH\QLBH\bin\Debug\QLBH.exe
+D:\Project\QLBH\QLBH\bin\Debug\QLBH.pdb
+D:\Project\QLBH\QLBH\obj\Debug\QLBH.csprojResolveAssemblyReference.cache
+D:\Project\QLBH\QLBH\obj\Debug\QLBH.Properties.Resources.resources
+D:\Project\QLBH\QLBH\obj\Debug\QLBH.csproj.GenerateResource.Cache
+D:\Project\QLBH\QLBH\obj\Debug\QLBH.exe
+D:\Project\QLBH\QLBH\obj\Debug\QLBH.pdb
